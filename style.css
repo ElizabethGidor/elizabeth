@@ -94,3 +94,53 @@ font-weight: 800
 }
 
 
+#reviews {
+    background-color: rgb(43, 21, 43);
+}
+
+.testimonial {
+    border: 2px solid pink;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.testimonial img {
+    width: 75px;
+    border-radius: 50%;
+    border: 2px solid rgb(107, 67, 67)
+}
+
+.accordion-body {
+    border-left: 3px solid rgb(121, 58, 58)smoke;
+    padding: 10px 15px;
+    margin-left: 0;
+    background-color:rgb(93, 128, 77);
+}
+
+.accordion-button:not(.collapsed){
+    background-color: rgb(59, 168, 59);
+    color:aquamarine
+}
+
+.accordion-button:hover {
+    background-color:rgb(172, 117, 44);
+    color:rgb(121, 58, 58);
+}
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #0A1737 ;
+} 
+
+#footer ul.list-unstyled li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#footer ul.list-unstyled li:hover a {
+    color:  rgb(244, 149, 15) ;
+    
+}
+
